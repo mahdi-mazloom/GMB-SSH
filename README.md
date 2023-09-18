@@ -4,7 +4,7 @@
 </picture>
   </p> 
 <p align="center">
-<h1 align="center"/>Rocket SSH</h1>
+<h1 align="center"/>GMB SSH</h1>
 <h6 align="center">SSH User Management<h6>
 </p>
 
