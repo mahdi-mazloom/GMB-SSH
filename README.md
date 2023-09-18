@@ -8,9 +8,6 @@
 <h6 align="center">SSH User Management<h6>
 </p>
 
-<p align="center">
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/mahmoud-ap/rocket-ssh">
-</p>
 
 ## معرفی <br>
 
@@ -37,7 +34,7 @@
 برای نصب دستور زیر را وارد کنید<br>
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mahmoud-ap/rocket-ssh/master/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/mahdi-mazloom/GMB-SSH/master/install.sh --ipv4)
 ```
 
 # آپدیت پنل ادمین
@@ -45,21 +42,14 @@ bash <(curl -Ls https://raw.githubusercontent.com/mahmoud-ap/rocket-ssh/master/i
 نیازی به نصب مجدد نیست . با این روش فقط پنل ادمین آپدیت می شود . در این روش اطلاعات دیتابیس تغییر نمی کند
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mahmoud-ap/rocket-ssh/master/update-panel.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/mahdi-mazloom/GMB-SSH/master/update-panel.sh --ipv4)
 ```
 
-# ❤️ حمایت از ما
-
-TRX
-
-```
-TFU4acBKt1pQgog2s22pHp7WrXjJWjKZhH
-```
 
 ## فعال سازی SSL
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mahmoud-ap/rocket-ssh/master/ssl.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/mahdi-mazloom/GMB-SSH/master/ssl.sh --ipv4)
 ```
 
 # بلاک کردن آی پی های ایران
@@ -67,16 +57,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mahmoud-ap/rocket-ssh/master/s
 جهت بلاک کردن آی پی های ایران از دستور زیر استفاده کنید
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mahmoud-ap/rocket-ssh/master/block-ir-ip.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/mahdi-mazloom/GMB-SSH/master/block-ir-ip.sh --ipv4)
 ```
 
-# کانال تلگرام
 
-https://t.me/rocket_ssh
-
-# محیط نرم افزار
-
-![](images/1.png)
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
